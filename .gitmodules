@@ -1,0 +1,3 @@
+[submodule "modules/fortigate-aa-fgsp"]
+	path = modules/fortigate-aa-fgsp
+	url = https://github.com/40net-cloud/terraform-google-fortigate-aa-fgsp.git
